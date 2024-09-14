@@ -1,0 +1,24 @@
+# num = int(input())
+
+# if(num%2==0):
+#     print("Even")
+# else:
+#     print("Odd")
+
+
+# for i in range(10):
+#     print("7x"+str(i)+"="+str(7*i))
+
+
+# nump = 67
+
+# while(nump<=77):
+#     print(nump**2)
+#     nump+=1
+
+
+
+# while(True):
+#     x = int(input())
+#     if(x<0):
+#         break
